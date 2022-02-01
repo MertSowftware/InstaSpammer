@@ -4,20 +4,20 @@ Instagram Spam Aracı.
 Termuxda Kullanılabilir.
 
 &&&&&&&&
-#Kurulum
+### Kurulum
 
- apt purge game-repo -y
- apt update
- apt upgrade -y
- apt install git python -y
- git clone https://github.com/MertSowftware/InstaSpammer/
- cd InstaSpammer
- python kurulum.py
+    apt purge game-repo -y
+    apt update
+    apt upgrade -y
+    apt install git python -y
+    git clone https://github.com/MertSowftware/InstaSpammer/
+    cd InstaSpammer
+    python kurulum.py
 
 &&&&&&&&&
-#Kullanım
+### Kullanım
 
- python InstaSpammer.py
+    python InstaSpammer.py
 
 &&&&&&&&&
 
